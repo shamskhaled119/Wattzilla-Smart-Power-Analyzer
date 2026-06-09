@@ -16,6 +16,15 @@ This first version was developed as a practical engineering project to understan
 
 
 
+## Watch Wattzilla in Action 🔥
+
+Here are some videos showing our first version during testing and operation 👇
+
+- 🎥 [Testing the Device](https://drive.google.com/file/d/10lg5OqXyU0H7uzgqMx0n-3jCb21rePA3/view?usp=drivesdk)
+- ⚡ [Wattzilla Live Demo](https://drive.google.com/file/d/1T5FBQeORNxcYiEMIY0t_zHyq25A9lSuH/view?usp=drivesdk)
+
+
+
 
 ## Features
 
