@@ -1,28 +1,3 @@
-## Project Photos 📸
-
-
-
-### Schematic Design
-![Wattzilla Schematic](Screenshot 2026-06-09 060034.png)
-
-
-
-### PCB Routing
-![Wattzilla PCB Routing](Screenshot 2026-06-09 053349.png)
-
-  
-### PCB Layout
-![Wattzilla PCB Layout](Screenshot 2026-06-09 053313.png)
-
-
-## Watch Wattzilla in Action 🔥
-
-Here are some videos showing our first version during testing and operation 👇
-
-- 🎥 [Testing the Device](https://drive.google.com/file/d/10lg5OqXyU0H7uzgqMx0n-3jCb21rePA3/view?usp=drivesdk)
-- ⚡ [Wattzilla Live Demo](https://drive.google.com/file/d/1T5FBQeORNxcYiEMIY0t_zHyq25A9lSuH/view?usp=drivesdk)
-
-
 ## Meet the Hardware 🔧⚡
 
 This is the part where Wattzilla actually touches the real world.
@@ -63,6 +38,19 @@ the hardware measures, the ESP32 thinks, and Wattzilla shows the results. 🔥
 
 - Connectors and Headers  
   Used for power input, sensor connections, screen connection, and external wiring.
+
+### Schematic Design
+![Wattzilla Schematic](Screenshot 2026-06-09 060034.png)
+
+
+
+### PCB Routing
+![Wattzilla PCB Routing](Screenshot 2026-06-09 053349.png)
+
+  
+### PCB Layout
+![Wattzilla PCB Layout](Screenshot 2026-06-09 053313.png)
+
 
 ### Hardware Role
 
