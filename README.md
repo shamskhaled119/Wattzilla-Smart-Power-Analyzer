@@ -26,17 +26,6 @@ This first version was developed as a practical engineering project to understan
 - Current waveform display  
 - Harmonics analysis  
 
----
-
-## Hardware Components
-
-- ESP microcontroller  
-- Current transformer sensor  
-- Voltage measurement circuit  
-- Display module  
-- Power supply circuit  
-- PCB  
- 
 
 ---
 
