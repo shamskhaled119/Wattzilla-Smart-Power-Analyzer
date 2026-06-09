@@ -11,8 +11,10 @@ This first version was developed as a practical engineering project to understan
 
 ## Project Photos
 
-### Wattzilla Hardware Setup
+
 ![Wattzilla Hardware Setup](photo_2026-06-09_05-42-17.jpg)
+
+
 
 
 ## Features
