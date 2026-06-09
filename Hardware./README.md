@@ -43,13 +43,13 @@ the hardware measures, the ESP32 thinks, and Wattzilla shows the results. 🔥
 ## Hardware Design Photos 📸
 
 ### Schematic Design
-![Wattzilla Schematic Design](Screenshot 2026-06-09 060034.png)
+<img src="Screenshot%202026-06-09%20060034.png" alt="Wattzilla Schematic Design" width="700">
 
 ### PCB Routing
-![Wattzilla PCB Routing](Screenshot 2026-06-09 053349.png)
+<img src="Screenshot%202026-06-09%20053349.png" alt="Wattzilla PCB Routing" width="700">
 
 ### PCB Layout
-![Wattzilla PCB Layout](Screenshot 2026-06-09 053313.png)
+<img src="Screenshot%202026-06-09%20053313.png" alt="Wattzilla PCB Layout" width="700">
 
 - Senses AC voltage
 - Senses load current
